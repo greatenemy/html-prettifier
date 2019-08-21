@@ -44,7 +44,6 @@ Example Output:
 
 	npm test
 
-
 ## Release history
 
 	* 0.1.0 Initial release

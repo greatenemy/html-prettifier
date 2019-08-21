@@ -4,7 +4,7 @@
   "description": "Wrapper around clean-html that newlines all tags and returns value directly without callback.",
   "author": "IOM <npm@greatenemy.com>",
   "homepage": "https://github.com/greatenemy/html-prettifier#readme",
-  "license": "ISC",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
