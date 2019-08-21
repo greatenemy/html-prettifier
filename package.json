@@ -1,0 +1,31 @@
+{
+  "name": "@greatenemy/html-prettifier",
+  "version": "0.1.0",
+  "description": "Wrapper around clean-html that newlines all tags and returns value directly without callback.",
+  "author": "IOM <npm@greatenemy.com>",
+  "homepage": "https://github.com/greatenemy/html-prettifier#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greatenemy/html-prettifier.git"
+  },
+  "keywords": [
+    "prettifier",
+    "html"
+  ],
+  "bugs": {
+    "url": "https://github.com/greatenemy/html-prettifier/issues"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  },
+  "dependencies": {
+    "clean-html": "^1.5.0",
+    "lodash": "^4.17.15"
+  }
+}
