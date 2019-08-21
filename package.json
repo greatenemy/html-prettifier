@@ -21,8 +21,8 @@
     "url": "https://github.com/greatenemy/html-prettifier/issues"
   },
   "devDependencies": {
-    "chai": "^3.3.0",
-    "mocha": "^2.3.3"
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
   },
   "dependencies": {
     "clean-html": "^1.5.0",
